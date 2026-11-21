@@ -1,3 +1,5 @@
+<p align="center"><img src="docs/banner.svg" alt="safety-data-sheet-index" width="100%"></p>
+
 # safety-data-sheet-index
 
 A command-line tool that scans a folder of safety data sheet (SDS) text files, builds a Markdown index by product, and lists the problems it finds.
