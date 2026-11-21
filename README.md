@@ -2,6 +2,8 @@
 
 # safety-data-sheet-index
 
+[![CI](https://github.com/yassine2med/safety-data-sheet-index/actions/workflows/ci.yml/badge.svg)](https://github.com/yassine2med/safety-data-sheet-index/actions/workflows/ci.yml) ![Python](https://img.shields.io/badge/python-3.10%2B-3776ab) ![License](https://img.shields.io/badge/license-MIT-8fb08a)
+
 A command-line tool that scans a folder of safety data sheet (SDS) text files, builds a Markdown index by product, and lists the problems it finds.
 
 ![Screenshot](docs/screenshot.png)
